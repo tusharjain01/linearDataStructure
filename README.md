@@ -1,4 +1,4 @@
-<h1>Linear Data Structures🏗️🏦</h1>
+<h1 align = "Center" >Linear Data Structures🏗️🏦</h1>
 
 ## Stack-📚📚
 <img src = "img1.jpeg">

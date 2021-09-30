@@ -9,18 +9,18 @@
 
 * ### <b>Problems🧑‍🏫🥲 related to stack</b>
 
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/basicofstack.java">`basicofstack.java`</a>-> Fundamental of Stack
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/basicofstack.java">`basicofstack.java`</a>-> Fundamental of Stack
 > ###### Bracket pair problem <b><>,{},[]<>🧑🏻‍🤝👨‍👩‍👦</b>
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/Balancedbrackets.java">`Balancebrackets.java`</a>
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/duplicatebrackests.java">`duplicatebrackets.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Balancedbrackets.java">`Balancebrackets.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/duplicatebrackests.java">`duplicatebrackets.java`</a>
 > ###### Next greatest or smallest number problem🤏🦣
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/nextgreaterelementtotheright.java">`nextgreatestelementtotheright.java`</a>
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/nextgreaterelementtotheleft.java">`nextgreatestelementtotheleft.java`</a>
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/nextsmallestelementtotheright.java
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextgreaterelementtotheright.java">`nextgreatestelementtotheright.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextgreaterelementtotheleft.java">`nextgreatestelementtotheleft.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextsmallestelementtotheright.java
 ">`nextsmallestelementtotheright.java`</a>
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/nextsmallestelementtotheleft.java
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextsmallestelementtotheleft.java
 ">`nextsmallestelementtotheleft.java`</a>
 > ##### Other type of question
-- <a href = "https://github.com/tusharjain01/Linear-data-Structure/blob/mastere/Learning%20linear%20data%20structre/src/stockSpan.java
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/stockSpan.java
 ">`stockSpan.java`</a>
 

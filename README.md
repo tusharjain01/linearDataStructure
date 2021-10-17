@@ -23,4 +23,6 @@
 > ##### Other type of question
 - <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/stockSpan.java
 ">`stockSpan.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/largestareainnhistogram.java">`largestareainhistogram.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/slidingwindow.java">`slidingwindow.java`</a>
 

@@ -1,29 +1,25 @@
 <h1 align = "Center" >Linear Data Structures🏗️🏦</h1>
 
-## Stack-📚📚
+# Stack-📚📚
 <img src = "img1.jpeg">
 
 ### The data structure follows the rule of LIFO (Last In-First Out) where the data last added element is removed first. Push operation is used for adding an element of data on a stack and the pop operation is used for deleting the data from the stack.
 
 ###### Ref - <a href = "https://www.geeksforgeeks.org/stack-data-structure/">Geeksforgeeks</a> <a href = "https://pepoding.com">Pepcoding</a>
 
-* ### <b>Problems🧑‍🏫🥲 related to stack</b>
 
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/basicofstack.java">`basicofstack.java`</a>-> Fundamental of Stack
-> ###### Bracket pair problem <b><>,{},[]<>🧑🏻‍🤝👨‍👩‍👦</b>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Balancedbrackets.java">`Balancebrackets.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/duplicatebrackests.java">`duplicatebrackets.java`</a>
-> ###### Next greatest or smallest number problem🤏🦣
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextgreaterelementtotheright.java">`nextgreatestelementtotheright.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextgreaterelementtotheleft.java">`nextgreatestelementtotheleft.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextsmallestelementtotheright.java
-">`nextsmallestelementtotheright.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/nextsmallestelementtotheleft.java
-">`nextsmallestelementtotheleft.java`</a>
-> ##### Other type of question
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/stockSpan.java
-">`stockSpan.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/largestareainnhistogram.java">`largestareainhistogram.java`</a>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/slidingwindow.java">`slidingwindow.java`</a>
 
-<h1 align = "center">Made with 💗 in India</h1>
+# Queue 🧑🏻‍🤝‍🧑🏻🧑🏻‍🤝‍🧑🏼👯
+
+<img src = "introduction-to-queue.webp">
+
+### Queue is also an abstract data type or a linear data structure, just like stack data structure, in which the first element is inserted from one end called the REAR(also called tail), and the removal of existing element takes place from the other end called as FRONT(also called head).
+
+
+# Linked List 📃🔐🔑
+
+<img src = "Linked-list.png">
+
+### A linked list is a sequence of data structures, which are connected together via links.Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after array. Following are the important terms to understand the concept of Linked List
+
+<h1 align = "center">Made with 💗 </h1>

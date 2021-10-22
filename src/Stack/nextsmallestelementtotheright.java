@@ -1,3 +1,5 @@
+package Stack;
+
 // "Next smallest element on the right" of an element x is defined as
 //  the first element to the right of x having value smaller than x. 
 //  Note -> If an element does not have any element on its right side

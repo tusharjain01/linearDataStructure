@@ -1,3 +1,4 @@
+package Stack;
 // Problem statement same as nextsmallesttotheright.java but here it is asking you about the element
 // on the left side.
 import java.util.Scanner;

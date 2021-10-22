@@ -1,3 +1,5 @@
+package Stack;
+
 // Problem statement same as nextgreatestelementtotheleft.java but here it is asking about 
 // the element on the left side.
 import java.util.Scanner;

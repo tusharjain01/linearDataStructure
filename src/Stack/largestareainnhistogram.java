@@ -1,3 +1,4 @@
+package Stack;
 //Question
 // You are given a number n,representing the size of
 // array n.

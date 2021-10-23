@@ -1,7 +1,6 @@
 package Stack;
 import java.util.Scanner;
 import java.util.Stack;
-
 public class infixConversion {
     public static int precedence(char ch){
         if(ch == '+' || ch == '-'){

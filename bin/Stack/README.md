@@ -17,5 +17,5 @@
 - <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/largestareainnhistogram.java">`largestareainhistogram.java`</a>
 - <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/slidingwindow.java">`slidingwindow.java`</a>
 > #### <b>Infix Prefix and Postfix(Main categories)</b>
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixEvalaution.java">`infixevalaution.java`</a> 
-- <a href ="https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixConverion.java">`infixConversion.java`</a> 
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixEvaluation.java">`infixevalaution.java`</a> 
+- <a href ="https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixConversion.java">`infixConversion.java`</a> 

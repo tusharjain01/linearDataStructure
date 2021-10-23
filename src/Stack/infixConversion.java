@@ -1,3 +1,11 @@
+//Postfix Expression:
+//When operator is post fixed to operands, i.e. operator is placed after operands. For example: Infix expression: x*y
+//ostfix expression: xy*
+
+//Prefix Expression
+//When operator is prefixed to operands, i.e. operator is placed before operands. For example: Infix expression: x*y
+//Prefix expression: *xy
+//In this problem you are provided with an infix expression and you are required to convert it to postfix and prefix and print both these expressions.
 package Stack;
 import java.util.Scanner;
 import java.util.Stack;

@@ -14,7 +14,7 @@
 > #### <b>Infix Prefix and Postfix(Main categories)</b>
 - <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixEvaluation.java">`infixevalaution.java`</a> 
 - <a href ="https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/infixConversion.java">`infixConversion.java`</a> 
-- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/.java">`postfixevaluationandcalculation.java`</a>
+- <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/postfixevaluationandcalculation.java">`postfixevaluationandcalculation.java`</a>
 > #### <b>Other type of question</b>
 - <a href = "https://github.com/tusharjain01/linearDataStructure/blob/master/src/Stack/stockSpan.java
 ">`stockSpan.java`</a>

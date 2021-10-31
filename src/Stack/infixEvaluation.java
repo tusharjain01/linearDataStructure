@@ -1,3 +1,9 @@
+//In this problem it is given that you will be provided with an infix expression and you are required 
+//to evaluate and print it's value.You don't need to worry about input; it is already managed for you...
+// Infix Expression - >
+//An infix expression is a single letter, or an operator, proceeded by one infix string and followed by another infix string.
+//x + y
+//(x + y) * (a - b) Basically it's just a fancy word for an algebraic expression which we have been studying since sixth or seventh grade.
 package Stack;
 import java.util.Stack;
 

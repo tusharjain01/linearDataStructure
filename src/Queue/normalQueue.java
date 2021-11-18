@@ -3,6 +3,7 @@ package Queue;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class normalQueue {
     public static class CustomQueue{
@@ -20,8 +21,8 @@ public class normalQueue {
             }
             else{
                 int rear = (front + size)%data.length;
-                size++;
                 data[rear] = num;
+                size++;
             }
         }
         int remove(){
@@ -56,31 +57,24 @@ public class normalQueue {
             return size;
         }
     }
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(br.readLine());
-        CustomQueue qu = new CustomQueue(n);
-        String str = br.readLine();
-        while(str.equals("quit") == false){
-            if(str.startsWith("add")){
-                int val = Integer.parseInt(str.split(" ")[1]);
-                qu.add(val);
-            } else if(str.startsWith("remove")){
-                int val = qu.remove();
-                if(val != -1){
-                    System.out.println(val);
-                }
-            } else if(str.startsWith("peek")){
-                int val = qu.peek();
-                if(val != -1){
-                    System.out.println(val);
-                }
-            } else if(str.startsWith("size")){
-                System.out.println(qu.size());
-            } else if(str.startsWith("display")){
-                qu.display();
-            }
-            str = br.readLine();
+    public static void main(String[] args) throws IOException
+    {
+        Scanner scn = new Scanner(System.in);
+        int n = scn.nextInt();
+            CustomQueue s1 = new CustomQueue(5);
+            s1.add(10);
+            s1.add(20);
+            s1.add(30);
+            s1.add(40);
+            s1.add(50);
+            s1.add(60);
+            s1.display();
+            System.out.println(s1.remove());
+            System.out.println(s1.remove());
+            System.out.println(s1.remove());
+            s1.display();
+            s1.add(60);
+            s1.add(70);
+            s1.display();
         }
     }
-}

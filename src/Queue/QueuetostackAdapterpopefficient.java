@@ -7,6 +7,7 @@ public class QueuetostackAdapterpopefficient {
     public static class Solution{
         Queue<Integer> MainQ;
         Queue<Integer> HelperQ;
+        int size = 0;
         Solution(){
             MainQ = new ArrayDeque<>();
             HelperQ = new ArrayDeque<>();

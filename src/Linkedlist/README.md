@@ -15,7 +15,8 @@
 > # Problems
 * Linkedlist to stack adapter -- Code to behave list as a "Stack".
 * Linkedlist to queue adapter -- Code to behave list as a "Queue".
-* Kth element from end -- Code to get kth element from end (without using iteration directly or using size property)
+* Kth element from end -- Code to get kth element from end (without using iteration directly or using size property)<br>
+* Middle of list -- Code to get middle element without using iteration directly or using size property.<br>
 
 
 

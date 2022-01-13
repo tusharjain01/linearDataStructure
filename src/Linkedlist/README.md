@@ -13,7 +13,9 @@
 * ReverseAListUsingPointeriterator - Code to reverse list using double pointers<br>
 * RemoveAt - Code to remove a element from particular index.
 > # Problems
-
+* Linkedlist to stack adapter -- Code to behave list as a "Stack".
+* Linkedlist to queue adapter -- Code to behave list as a "Queue".
+* Kth element from end -- Code to get kth element from end (without using iteration directly or using size property)
 
 
 

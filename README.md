@@ -16,7 +16,7 @@
 ### Queue is also an abstract data type or a linear data structure, just like stack data structure, in which the first element is inserted from one end called the REAR(also called tail), and the removal of existing element takes place from the other end called as FRONT(also called head).
 
 
-# <a href = "https://github.com/tusharjain01/linearDataStructure/tree/master/src/Linked list">Linked List 📃🔐🔑</a>
+# <a href = "https://github.com/tusharjain01/linearDataStructure/tree/master/src/Linkedlist">Linked List 📃🔐🔑</a>
 <img src = "Linked-list.png">
 
 ### A linked list is a sequence of data structures, which are connected together via links.Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after array. Following are the important terms to understand the concept of Linked List

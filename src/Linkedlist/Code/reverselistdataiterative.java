@@ -156,7 +156,6 @@ public class reverselistdataiterative {
                 li++;
                 ri--;
             }
-            display();
         }
         public static void main(String[] args) {
             LinkedList ll = new LinkedList();
